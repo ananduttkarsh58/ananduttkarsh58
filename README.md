@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Uttkarsh Anand 👋  
 
-<!--
-**ananduttkarsh58/ananduttkarsh58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE (2026)** | KIIT University  
+📊 **Aspiring Data Scientist / AI Engineer** | Building real-world solutions with Data, ML, and AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📌 Selected among **Top 250 students** in India for **Daksh Gurukul** by IIT Guwahati & NSDC  
+- 🛠️ Creator of **KIIT EduBuddy** – an AI-powered assistant for university students  
+- 💡 Passionate about **Data Science**, **Machine Learning**, and **Natural Language Processing**  
+- 🏏 District-level cricket player | 🎤 Stage performer  
+
+---
+
+## 🛠️ Skills & Tools
+**Languages:** Python, SQL, C++  
+**Data Analysis & Visualization:** Power BI, Tableau, Excel  
+**Machine Learning:** Scikit-learn, Pandas, NumPy  
+**Other Tools:** Git, JIRA, Google Suite, Canva, Figma  
+
+---
+
+## 📫 Connect With Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ananduttkarsh58)  
+- 📧 Email: ananduttkarsh58@gmail.com  
+- 🐙 [GitHub](https://github.com/ananduttkarsh58)  
+
+---
+
+⭐ _"Turning ideas into solutions with data and code."_
