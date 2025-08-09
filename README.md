@@ -22,8 +22,8 @@
 ---
 
 ## 📫 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ananduttkarsh58)  
-- 📧 Email: ananduttkarsh58@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/uttkarsh-anand-9518a9344/)  
+- 📧 Email: ananduttkarsh321@gmail.com  
 - 🐙 [GitHub](https://github.com/ananduttkarsh58)  
 
 ---
