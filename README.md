@@ -16,8 +16,7 @@
 ## 🛠️ Skills & Tools
 **Languages:** Python, SQL, C++  
 **Data Analysis & Visualization:** Power BI, Tableau, Excel  
-**Machine Learning:** Scikit-learn, Pandas, NumPy  
-**Other Tools:** Git, JIRA, Google Suite, Canva, Figma  
+**Machine Learning:** Scikit-learn, Pandas, NumPy 
 
 ---
 
